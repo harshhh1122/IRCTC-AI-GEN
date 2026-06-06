@@ -1,0 +1,6 @@
+{
+  "name": "IRCTC AI Smart Assist Portal",
+  "description": "NextGen Indian Railways Booking Companion powered by live Gemini AI route heuristic optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
